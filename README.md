@@ -2,7 +2,9 @@
 Lindy Automation: Support Email Responder Workflow
 
 TO VIEW THE WORK CLICK ON THIS LINK BELOW
+
 https://chat.lindy.ai/home/?templateId=68491f756e1ab2a01c4ede66
+
 
 
 🧠 Purpose

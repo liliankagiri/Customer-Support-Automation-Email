@@ -1,5 +1,9 @@
 # 📄 Lindy Automation: Support Email Responder Workflow
 
+#  CLICK THE LINK BELOW TO ACCESS MY WORK
+
+https://chat.lindy.ai/home/?templateId=68491f756e1ab2a01c4ede66
+
 ## 🧠 Purpose
 Automate responses to support-related emails, specifically **login issues**, using an AI agent and knowledge base, while allowing human review for complex cases.
 
